@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "title": "Create new homepage banner",
+      "details": "lorem ig",
+      "complete": false
+    },
+    {
+      "id": "2",
+      "title": "Make marketing email",
+      "details": "lorem 2 ig",
+      "complete": true
+    },
+    {
+      "id": "ff8f",
+      "title": "asd",
+      "details": "asd",
+      "complete": true
+    }
+  ]
+}
